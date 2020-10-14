@@ -12,6 +12,3 @@ python main.py
 
 [![Run on Repl.it](https://repl.it/badge/github/ikumen/terminal-tictactoe)](https://repl.it/github/ikumen/terminal-tictactoe) 
 
-
-
-
